@@ -1,1 +1,1 @@
-#HHA504_assignment_cloudcosts
+HHA504_assignment_cloudcosts
